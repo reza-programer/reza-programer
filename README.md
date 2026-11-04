@@ -17,14 +17,32 @@ I build web applications end to end, from database and API to the interface, and
 
 ## Tech Stack
 
-| | |
-|:--|:--|
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,tailwind" height="40" alt="HTML, CSS, JavaScript, TypeScript, Vue, React, Next.js, Tailwind CSS"/> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,py" height="40" alt="PHP, Laravel, Node.js, Express, Python"/> <img src="assets/codeigniter.svg" height="40" alt="CodeIgniter"/> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mysql,postgres" height="40" alt="MySQL, PostgreSQL"/> |
-| **Mobile** | <img src="https://skillicons.dev/icons?i=react" height="40" alt="React Native"/> <img src="assets/expo.svg" height="40" alt="Expo"/> |
-| **Testing** | <img src="https://skillicons.dev/icons?i=postman,selenium" height="40" alt="Postman, Selenium"/> <img src="assets/jira.svg" height="40" alt="Jira"/> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker" height="40" alt="Git, GitHub, Docker"/> <img src="assets/colab.svg" height="40" alt="Google Colab"/> |
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,tailwind" height="40" alt="HTML, CSS, JavaScript, TypeScript, Vue, React, Next.js, Tailwind CSS"/></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,py" height="40" alt="PHP, Laravel, Node.js, Express, Python"/> <img src="assets/codeigniter.svg" height="40" alt="CodeIgniter"/></td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres" height="40" alt="MySQL, PostgreSQL"/></td>
+  </tr>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react" height="40" alt="React Native"/> <img src="assets/expo.svg" height="40" alt="Expo"/></td>
+  </tr>
+  <tr>
+    <td><b>Testing</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postman,selenium" height="40" alt="Postman, Selenium"/> <img src="assets/jira.svg" height="40" alt="Jira"/></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,docker" height="40" alt="Git, GitHub, Docker"/> <img src="assets/colab.svg" height="40" alt="Google Colab"/></td>
+  </tr>
+</table>
 
 ## Selected Projects
 
